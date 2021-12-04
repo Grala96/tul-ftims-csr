@@ -2,10 +2,8 @@
 
 Repozytorium stworzone w celu realizacja zadań projektowych na Politechnice Łódzkiej, przedmiocie "Komputerowe Systemy Rozpoznawania". Do wykonania są dwa zadania, które kolejno umieszczono:
 
-- Klasyfikacja tekstów (katalog text-classification) (więcej informacji [tutaj](text-classification/README.md))
-- Lingwistyczne podsumowania baz danych (katalog linguistic-database-summaries) [tutaj](linguistic-database-summaries/README.md))
-
-> Należy dodatkowo zaznaczyć, iż kody do drugiego zadania zostały zmergowane z repozytorium drugiego kontrybutora. Historię commitów do drugiego zadania można znaleźć tutaj: https://github.com/Szpilka007/Linguistic-database-summaries
+- Klasyfikacja tekstów (katalog text-classification) (więcej informacji [tutaj](link do readme2))
+- Lingwistyczne podsumowania baz danych
 
 ## Literatura
 
